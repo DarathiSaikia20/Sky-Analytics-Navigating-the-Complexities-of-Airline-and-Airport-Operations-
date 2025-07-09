@@ -1,5 +1,7 @@
 # ✈️ Sky Analytics: Navigating the Complexities of Airline and Airport Operations
 
+![Screenshot 2025-07-09 201710](https://github.com/user-attachments/assets/5300c4e4-9c6b-441d-9a2c-72a518af8413)
+
 ## 📋 Project Description
 
 SkyNet Analysis Inc., a leader in aviation analytics, seeks to uncover actionable insights from large-scale flight operations data. With the aviation industry's increasing complexity, delays, cancellations, and resource utilization have become critical factors for efficiency and customer satisfaction.
